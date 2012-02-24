@@ -1,0 +1,6 @@
+F:\Documents\xnaprojects\OGLib\OGLib\bin\x86\Debug\OGLib.dll
+F:\Documents\xnaprojects\OGLib\OGLib\bin\x86\Debug\OGLib.pdb
+F:\Documents\xnaprojects\OGLib\OGLib\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Documents\xnaprojects\OGLib\OGLib\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Documents\xnaprojects\OGLib\OGLib\obj\x86\Debug\OGLib.dll
+F:\Documents\xnaprojects\OGLib\OGLib\obj\x86\Debug\OGLib.pdb

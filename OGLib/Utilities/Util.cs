@@ -1,4 +1,9 @@
-﻿using System;
+﻿//-----------------------------------------------------------------------
+// <copyright file="Util.cs" company="">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+//-----------------------------------------------------------------------
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -75,6 +80,7 @@ namespace OGLib.Utilities
         /// <param name="value2">Last value</param>
         /// <param name="weight">Weight</param>
         /// <returns>Returns the interpolated value</returns>
+
         public static float Lerp(float value1, float value2, float weight)
         {
             return value1 + (value2 - value1) * weight;
